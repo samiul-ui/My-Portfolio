@@ -94,17 +94,7 @@
         }
         .logo { font-size: 26px; font-weight: 700; color: var(--accent); text-transform: uppercase; }
 
-  .navbar { background: ;
   
-  border: 2px solid transparent;
-  border-image: linear-gradient(45deg, red, green, blue, cyan, magenta, yellow) 1;
-  border-image-slice: 1;
-  box-shadow: 0 0 10px rgba(255,0,0,0.9), 0 0 15px rgba(0,255,0,0.7), 0 0 20px rgba(0,0,255,0.8);
-  border-radius: 15px;
-  
-  padding: 20px;
-} 
-
         .nav-links { display: flex; gap: 20px; list-style: none; }
         .nav-links a { color: white; text-decoration: none; font-size: 50px; font-weight: 500; transition: 1.3s; cursor: pointer; · border-left:100px;}
         .nav-links a {
